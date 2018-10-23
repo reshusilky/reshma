@@ -1,3 +1,7 @@
+i am reshma
+
+
+
 \*host echo Building Oracle demonstration tables.  Please wait.
 
 use sheela_2979
